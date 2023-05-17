@@ -1,3 +1,11 @@
+Tkinter prototype app using the Azure theme for ttk for data exploring, chart creation and file exportation.
+
+To use clone the repository and run interfaz.py
+
+(this is an early prototype with a lot of issues to correct)
+
+
+
 # Azure theme for ttk
 
 ![Screenshot of the Azure theme](screenshot.png)
